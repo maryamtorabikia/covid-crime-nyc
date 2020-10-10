@@ -1,0 +1,1 @@
+web: gunicorn covid-crime-nyc.app:app
